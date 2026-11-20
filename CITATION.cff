@@ -7,7 +7,8 @@ license: MIT
 repository-code: "https://github.com/zx66882016/SRDO_1"
 url: "https://doi.org/10.5281/zenodo.24390252"
 authors:
-  - name: "zx"
+  - given-names: "Xing"
+    family-names: "Zhang"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.24390252"
@@ -19,6 +20,7 @@ preferred-citation:
   type: article
   title: "Search and Rescue Dog Optimizer: A budget-aware metaheuristic with unified scheduling and late-stage refinement"
   authors:
-    - name: "zx"
+    - given-names: "Xing"
+      family-names: "Zhang"
   journal: "Journal of Computational Science"
   year: 2026
