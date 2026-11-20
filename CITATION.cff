@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper and the archived code."
+title: "SRDO: Search and Rescue Dog Optimizer"
+version: 1.0.1
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/zx66882016/SRDO_1"
+url: "https://doi.org/10.5281/zenodo.24390252"
+authors:
+  - name: "zx"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24390252"
+    description: "Permanent Zenodo archive of release v1.0.1."
+  - type: doi
+    value: "10.5281/zenodo.24390251"
+    description: "Concept DOI; always resolves to the latest release."
+preferred-citation:
+  type: article
+  title: "Search and Rescue Dog Optimizer: A budget-aware metaheuristic with unified scheduling and late-stage refinement"
+  authors:
+    - name: "zx"
+  journal: "Journal of Computational Science"
+  year: 2026
